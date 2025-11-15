@@ -1,4 +1,4 @@
-## 👨‍💻 Opa! Eu sou o **LopesDev**
+## 👨‍💻 Opa! Eu sou o **LopDev**
 Engenheiro de Software • Desenvolvedor Sênior
 
 Apaixonado por tecnologia, arquitetura de sistemas e desenvolvimento de soluções escaláveis. Trabalho criando sistemas de alta performance, integrações complexas e aplicações modernas em diversas linguagens e bancos de dados.
@@ -28,7 +28,7 @@ Apaixonado por tecnologia, arquitetura de sistemas e desenvolvimento de soluçõ
 
 ### 🌐 Onde me encontrar
 <div>
-  <a href="https://github.com/lopesdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:contato@lopesdev.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/lopesdevi" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:contato@lopdev.com.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>

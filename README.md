@@ -37,7 +37,7 @@ Crio sistemas de alta performance, integrações complexas e aplicações modern
   <a href="https://github.com/lopesdevi">
     <img
       height="160em"
-      src="https://github-readme-stats.vercel.app/api?username=lopesdev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br"
+      src="https://github-readme-stats.vercel.app/api?username=lopesdevi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br"
       alt="GitHub Stats - LopesDevi"
     />
   </a>
@@ -46,7 +46,7 @@ Crio sistemas de alta performance, integrações complexas e aplicações modern
   <a href="https://github.com/lopesdevi">
     <img
       height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesdev&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesdevi&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
       alt="Top Langs - LopesDevi"
     />
   </a>

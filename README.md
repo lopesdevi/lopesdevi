@@ -75,7 +75,7 @@ Minha abordagem é direta: resolver problemas reais com código limpo, arquitetu
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lopesdevi&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=lopesdevi&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 ---

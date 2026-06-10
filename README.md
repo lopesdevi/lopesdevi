@@ -23,24 +23,17 @@ São Paulo, Brasil 🇧🇷
 
 ### 👨‍💻 Sobre mim
 
-Comecei a programar em **2019**, de forma autodidata, e desde então venho trabalhando com sistemas que exigem consistência, escala e atenção real ao detalhe.  
-O que me move não é só “fazer funcionar”, mas construir algo que continue bem depois que a primeira versão já passou.
+Desenvolvedor desde **2019**, com foco em produtos digitais, automação e sistemas com mais vida útil do que a média.
 
-Hoje meu foco está em dois caminhos principais:
+Hoje estou à frente da **Sophie Bot** e da **Sophie Economy**, explorando uma experiência mais forte de Discord, retenção e progressão.
 
-- a **Sophie Bot**, no Discord
-- a **Sophie Economy**, que vem junto como uma camada de progressão, retenção e experiência
-
-Também estou me aventurando em **Kotlin**. Ainda não é uma linguagem em que eu me sinto totalmente em casa, mas ela entrou no meu radar como uma etapa natural depois de muito tempo lidando com Java e suas ideias herdadas. É uma linguagem que eu estou aprendendo com calma, sem pressa, mas com intenção de levar isso para algo real.
+No paralelo, sigo me aprofundando em **Kotlin**, uma linguagem que entrou na minha rotina como próxima etapa natural depois de anos convivendo com a base do Java.
 
 ---
 
 ### 🤖 Sophie Bot
 
-A Sophie está deixando de ser só um bot comum e virando um produto com identidade própria.  
-A proposta é unir experiência de Discord, economia persistente, sistemas interativos e uma camada de retenção que faça o usuário voltar porque sempre existe algo para coletar, melhorar ou desbloquear.
-
-**O que já entra nesse universo:**
+Projeto principal no Discord, com foco em identidade, economia persistente e interações mais consistentes.
 
 - economia completa
 - banco e movimentações
@@ -56,19 +49,7 @@ A proposta é unir experiência de Discord, economia persistente, sistemas inter
 
 ### 💠 Sophie Economy
 
-A Sophie Economy é a parte do projeto que puxa o lado mais vivo da experiência.  
-Não é só “saldo e comando”. A ideia é que cada sistema converse com o outro, criando um ciclo contínuo de uso.
-
-O foco é:
-
-- retenção diária
-- progressão de longo prazo
-- sensação de operação crescendo
-- decisões com risco e recompensa
-- personalização do jogador
-- sistemas que fazem sentido juntos
-
-É aqui que entram ideias como:
+Camada econômica do ecossistema, desenhada para crescer junto com o bot.
 
 - mineração com equipe e upgrades
 - empresas com valuation e funcionários
@@ -87,11 +68,11 @@ O foco é:
   <tr>
     <td width="50%">
       <h4>🧩 Produto principal</h4>
-      <p>Uma experiência de Discord bot mais madura, mais visual e mais interativa, com identidade forte e várias camadas de uso.</p>
+      <p>Sophie Bot com foco em economia, retenção e módulos interativos.</p>
     </td>
     <td width="50%">
       <h4>📱 Expansão para mobile</h4>
-      <p>Estou organizando a base para pensar também em app Android, com retenção, progresso e módulos inspirados no que já existe no bot.</p>
+      <p>Estudo de uma camada Android em Kotlin, reaproveitando a lógica central do projeto.</p>
     </td>
   </tr>
 </table>
@@ -145,8 +126,8 @@ O foco é:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lopesdevi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&icon_color=C76A15&title_color=C76A15" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesdevi&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C76A15" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lopesdevi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=C76A15&title_color=C76A15" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesdevi&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C76A15" />
 </div>
 
 ---
@@ -159,17 +140,7 @@ O foco é:
 
 ### 🧭 Direção atual
 
-O momento agora é de construir coisas com mais personalidade.
-
-Quero que os projetos deixem de parecer apenas ferramentas e passem a parecer produtos de verdade, com:
-
-- identidade visual clara
-- sistemas que se conectam
-- progressão sentida pelo usuário
-- retenção bem pensada
-- experiência mais viva
-
-É esse tipo de coisa que está guiando a Sophie neste momento.
+Construindo produtos com identidade, coerência e continuidade.
 
 ---
 
@@ -177,7 +148,7 @@ Quero que os projetos deixem de parecer apenas ferramentas e passem a parecer pr
 
 **[lopdev.com.br](https://lopdev.com.br)** · **[linkedin.com/in/lopdev](https://linkedin.com/in/lopdev)** · **[contato@lopdev.com.br](mailto:contato@lopdev.com.br)**
 
-<sub>Construindo produtos, aprendendo sem pressa e levando a Sophie adiante.</sub>
+<sub>Sophie Bot · Sophie Economy · Kotlin em evolução.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C76A15&height=80&section=footer" />
 

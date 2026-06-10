@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://lopdev.com.br/favicon.svg" alt="LopDev" width="48" height="48" />
+<img src="https://lopdev.com.br/favicon.svg" alt="LopDev" width="56" height="56" />
 
 # Marcelo Junior
 
@@ -21,38 +21,91 @@ São Paulo, Brasil 🇧🇷
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 👨‍💻 Sobre mim
 
-Comecei a programar em **2019** de forma autodidata e desde então venho construindo sistemas de alta performance, integrações complexas e aplicações escaláveis. Sou fundador e CTO da **PlayHub Holding**, onde lidero a operação técnica de múltiplas marcas e produtos digitais.
+Comecei a programar em **2019**, de forma autodidata, e desde então venho trabalhando com sistemas que exigem consistência, escala e atenção real ao detalhe.  
+O que me move não é só “fazer funcionar”, mas construir algo que continue bem depois que a primeira versão já passou.
 
-Minha abordagem é direta: resolver problemas reais com código limpo, arquitetura sólida e foco em escala.
+Hoje meu foco está em dois caminhos principais:
+
+- a **Sophie Bot**, no Discord
+- a **Sophie Economy**, que vem junto como uma camada de progressão, retenção e experiência
+
+Também estou me aventurando em **Kotlin**. Ainda não é uma linguagem em que eu me sinto totalmente em casa, mas ela entrou no meu radar como uma etapa natural depois de muito tempo lidando com Java e suas ideias herdadas. É uma linguagem que eu estou aprendendo com calma, sem pressa, mas com intenção de levar isso para algo real.
 
 ---
 
-### 🏢 O que eu construo
+### 🤖 Sophie Bot
+
+A Sophie está deixando de ser só um bot comum e virando um produto com identidade própria.  
+A proposta é unir experiência de Discord, economia persistente, sistemas interativos e uma camada de retenção que faça o usuário voltar porque sempre existe algo para coletar, melhorar ou desbloquear.
+
+**O que já entra nesse universo:**
+
+- economia completa
+- banco e movimentações
+- daily e recompensas
+- mineração com progressão
+- apostas e minigames
+- empresas e mercado
+- perfil e personalização
+- moderação e utilidades
+- sistemas de governo e fiscalização
+
+---
+
+### 💠 Sophie Economy
+
+A Sophie Economy é a parte do projeto que puxa o lado mais vivo da experiência.  
+Não é só “saldo e comando”. A ideia é que cada sistema converse com o outro, criando um ciclo contínuo de uso.
+
+O foco é:
+
+- retenção diária
+- progressão de longo prazo
+- sensação de operação crescendo
+- decisões com risco e recompensa
+- personalização do jogador
+- sistemas que fazem sentido juntos
+
+É aqui que entram ideias como:
+
+- mineração com equipe e upgrades
+- empresas com valuation e funcionários
+- apostas com tempo real
+- baú diário e streak
+- banco e investimentos
+- perfis mais expressivos
+- missões e contratos
+- social e ranking
+
+---
+
+### 📌 O que eu estou construindo agora
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🏦 Orbyon Pay</h4>
-      <p>Infraestrutura de pagamentos para empresas digitais. Gateway Pix, motor de cobrança recorrente, conciliação por webhook e sistemas multi-tenant.</p>
-      <p><a href="https://orbyonpay.com">orbyonpay.com ↗</a></p>
+      <h4>🧩 Produto principal</h4>
+      <p>Uma experiência de Discord bot mais madura, mais visual e mais interativa, com identidade forte e várias camadas de uso.</p>
     </td>
     <td width="50%">
-      <h4>🎮 PlayHub Holding</h4>
-      <p>Holding de empresas, marcas e produtos digitais. Flix Store, Lembro Fotos e operações de afiliados com equipe de 13 pessoas.</p>
-      <p><a href="https://grupoplayhub.com">grupoplayhub.com ↗</a></p>
+      <h4>📱 Expansão para mobile</h4>
+      <p>Estou organizando a base para pensar também em app Android, com retenção, progresso e módulos inspirados no que já existe no bot.</p>
     </td>
   </tr>
 </table>
 
-**O que eu faço no dia a dia:**
+**Áreas que mais aparecem no que eu faço hoje:**
 
-- 🔧 Projeto e construo **gateways de pagamento**, **motores de billing** e **APIs financeiras**
-- 🏗️ Arquiteto sistemas **multi-tenant** para múltiplas marcas sob a mesma infra
-- 📊 Desenvolvo **painéis administrativos**, plataformas de **afiliados** e dashboards de métricas
-- 🤖 Crio **bots de monitoramento** integrados com Telegram e Discord para alertas em tempo real
-- 🚀 Defino **padrões de código**, práticas de **code review** e pipelines **CI/CD**
+- 🔧 arquitetura de sistemas
+- 🏦 economia persistente
+- ⛏️ progressão de mineração
+- 🎲 apostas e jogos
+- 🏢 empresas e simulação econômica
+- 👤 perfil e personalização
+- 🧠 retenção e experiência do usuário
+- ☕ aprendizado prático em Kotlin
 
 ---
 
@@ -65,7 +118,6 @@ Minha abordagem é direta: resolver problemas reais com código limpo, arquitetu
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Frontend
@@ -73,39 +125,20 @@ Minha abordagem é direta: resolver problemas reais com código limpo, arquitetu
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 #### Infra & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
----
-
-### 🎓 Formação & Certificações
-
-Não fiz faculdade. Minha formação é construída com **cursos, certificações e muito código em produção.**
-
-| Certificação | Instituição |
-|---|---|
-| Desenvolvimento Web Full Stack (3 certificações) | **freeCodeCamp** |
-| Formação Front-End | **Alura** |
-| Bootcamp Full Stack | **DIO** |
-| Azure AI Fundamentals (AI-900) | **Microsoft** |
-| Scrum Fundamentals Certified (SFC) | **SCRUMstudy** |
-| Linux Essentials | **Linux Professional Institute** |
 
 ---
 
@@ -116,15 +149,27 @@ Não fiz faculdade. Minha formação é construída com **cursos, certificaçõe
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesdevi&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C76A15" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lopesdevi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=C76A15&fire=C76A15&currStreakLabel=C76A15" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 🌐 Idiomas
 
-🇧🇷 Português — Nativo · 🇺🇸 Inglês — Profissional · 🇪🇸 Espanhol — Intermediário · 🇷🇺 Russo — Básico (leitura)
+🇧🇷 Português — Nativo · 🇺🇸 Inglês — Profissional · 🇪🇸 Espanhol — Intermediário
+
+---
+
+### 🧭 Direção atual
+
+O momento agora é de construir coisas com mais personalidade.
+
+Quero que os projetos deixem de parecer apenas ferramentas e passem a parecer produtos de verdade, com:
+
+- identidade visual clara
+- sistemas que se conectam
+- progressão sentida pelo usuário
+- retenção bem pensada
+- experiência mais viva
+
+É esse tipo de coisa que está guiando a Sophie neste momento.
 
 ---
 
@@ -132,7 +177,7 @@ Não fiz faculdade. Minha formação é construída com **cursos, certificaçõe
 
 **[lopdev.com.br](https://lopdev.com.br)** · **[linkedin.com/in/lopdev](https://linkedin.com/in/lopdev)** · **[contato@lopdev.com.br](mailto:contato@lopdev.com.br)**
 
-<sub>Engenheiro autodidata. Construindo desde 2019.</sub>
+<sub>Construindo produtos, aprendendo sem pressa e levando a Sophie adiante.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C76A15&height=80&section=footer" />
 
